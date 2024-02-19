@@ -1,0 +1,13 @@
+Age group                          Male (mg/day)  Female (mg/day)  
+Birth to 6 months                  0.27           0.27             
+7-12 months                        11             11               
+1-3 years                          7              7                
+4-8 years                          10             10               
+9-13 years                         8              8                
+14-18 years                        11             15               
+19-30 years                        8              18               
+31-50 years                        8              18               
+51+ years                          8              8                
+Pregnancy                          —            27               
+Lactation (younger than 18 years)  —            10               
+Lactation (19-50 years)            —            9                
