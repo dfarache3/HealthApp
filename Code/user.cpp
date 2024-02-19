@@ -17,19 +17,20 @@ public:
         body["Height"] = 6.1; // feet
         body["Gender"] = 0; // 0:male, 1:female
         body["Age"] = 23; //years
+        body["Activity level"] = 0; // low: 0, 1: medium, 2: high
 
         // Initialize minerals and their amounts
         minerals["Iron"] = 10;  // mg/day
         minerals["Potassium"] = 10; // mg 
         minerals["Iodine"] = 10; // mcg
-        minerals["Molybdenum"] = 10; 
-
-        minerals["Sulfur"] = 10;
-        minerals["Chromium"] = 10;
+        minerals["Molybdenum"] = 10; // ucg/day
+        minerals["Chromium"] = 10; // mcg
         minerals["Calcium"] = 1000; // mg
         minerals["Magnesium"] = 400; // mg
-        minerals["Potassium"] = 4700; // mg
-        minerals["Sodium"] = 1500; // mg
+
+        // Not yet defined
+        minerals["Sulfur"] = 10;
+        minerals["Sodium"] = 1500, 2300; // mg
 
         // Macro information
         macros["Protein"] = 10; // grams
